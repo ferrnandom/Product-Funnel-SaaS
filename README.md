@@ -107,7 +107,7 @@ The fictional SaaS company faces four interconnected challenges:
 
 ## Skills Demonstrated
 
-- SQL: CTEs, Joins, Case, aggregate functions
+- SQL: CTEs, Joins, Case, aggregate functions, window functions
 - Data analysis and funnel optimization
 - Comparative performance benchmarking
 - Strategic priority setting
