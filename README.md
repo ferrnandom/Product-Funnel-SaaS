@@ -29,7 +29,7 @@ The fictional SaaS company faces four interconnected challenges:
 
 ## Methodology
 
-- **Data:** Synthetic dataset (the dataset can be found [here](https://docs.google.com/spreadsheets/d/1ppTarWjkyLR_ctMySzM_Tb4o-XVjqgOM3GrPDf7FJR0/edit?usp=sharing) representing a B2B SaaS company across 5 channels, 5 platforms, 11 countries
+- **Data:** Synthetic dataset (the dataset can be found [here](https://docs.google.com/spreadsheets/d/1ppTarWjkyLR_ctMySzM_Tb4o-XVjqgOM3GrPDf7FJR0/edit?usp=sharing)) representing a B2B SaaS company across 5 channels, 5 platforms, 11 countries
 - **Metrics:** Conversion rates at each funnel stage (visitors → sign-ups → demos → purchases)
 - **Approach:** Comparative performance analysis, conversion rate benchmarking, funnel velocity assessment
 
