@@ -5,20 +5,25 @@
 This analysis examines customer acquisition funnel performance across marketing channels, user platforms, and geographic markets for a fictional SaaS company using synthetic AI-generated data.
 
 **Key Findings:**
-- **Paid Search** shows the highest conversion quality (53% visitor-to-demo) but limited scale
-- **Organic Search** drives the most traffic (252 visitors) but underconverts to purchases (27%)
-- **Mobile devices** represent 34% of traffic but only 8% of purchases—a critical leakage point
-- **Germany & UK** are mature, high-performing markets; **Poland & Belgium** punch above their weight
-- Sales cycle is consistent at 7-8 days across all segments
+- Paid Search demonstrates the highest conversion quality (53% visitor-to-demo rate) but lower volume, making it the most efficient channel for budget allocation.
+- Organic Search drives the highest traffic (252 visitors) but suffers from the poorest purchase conversion (27%), indicating a significant downstream funnel problem.
+- Windows and macOS platforms perform consistently well, while mobile devices (iOS/Android) show strong early engagement that collapses at purchase, representing a major revenue leakage point.
+- Germany and the UK are mature, established markets, while Poland and Belgium show disproportionately high conversion efficiency relative to traffic, indicating hidden growth opportunities.
+- The sales cycle is remarkably consistent at 7-8 days across all segments, enabling predictable pipeline forecasting.
 
 ---
 
 ## Business Problem
 
-1. Marketing efficiency vs. scale trade-off: High-converting channels have low volume; high-traffic channels underconvert
-2. Platform mismatch: Mobile represents substantial traffic but fails to convert to purchases
-3. Geographic inconsistency: Major European markets (France, Spain) dramatically underperform relative to traffic
-4. Lack of actionable priority: Unclear which segments deserve increased investment
+The fictional SaaS company faces four interconnected challenges:
+
+1. **Marketing Efficiency vs. Scale Trade-off:** High-performing channels (Paid Search, Email) have limited volume, while high-traffic channels (Organic Search, Social Media) underconvert to revenue, creating a tension between scale and quality.
+
+2. **Platform-Specific Funnel Breakdown:** Mobile devices represent substantial traffic but fail to convert to purchases, suggesting either a technical issue, user experience problem, or fundamental misalignment between mobile users and the product's value proposition.
+
+3. **Geographic Market Inconsistency:** European markets show wildly different conversion patterns despite similar traffic volumes. France, Spain, and other major markets dramatically underperform relative to Germany and the UK, indicating potential localization, product-market fit, or operational execution gaps.
+
+4. **Funnel Visibility:** While overall timing is predictable, the company lacks clarity on which segments to prioritize for growth, where to allocate limited resources, and how to address underperforming segments without cannibalizing efforts in mature markets.
 
 ---
 
@@ -98,9 +103,9 @@ This analysis examines customer acquisition funnel performance across marketing 
 
 ## Skills Demonstrated
 
+- SQL: CTEs, Joins, Case, aggregate functions
 - Data analysis and funnel optimization
 - Comparative performance benchmarking
-- Business problem diagnosis
 - Strategic priority setting
 - Clear communication of complex findings
 
