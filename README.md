@@ -29,7 +29,7 @@ The fictional SaaS company faces four interconnected challenges:
 
 ## Methodology
 
-- **Data:** Synthetic dataset representing a B2B SaaS company across 5 channels, 5 platforms, 11 countries
+- **Data:** Synthetic dataset (the dataset can be found [here](https://docs.google.com/spreadsheets/d/1ppTarWjkyLR_ctMySzM_Tb4o-XVjqgOM3GrPDf7FJR0/edit?usp=sharing) representing a B2B SaaS company across 5 channels, 5 platforms, 11 countries
 - **Metrics:** Conversion rates at each funnel stage (visitors → sign-ups → demos → purchases)
 - **Approach:** Comparative performance analysis, conversion rate benchmarking, funnel velocity assessment
 
@@ -37,39 +37,43 @@ The fictional SaaS company faces four interconnected challenges:
 
 ## Key Results
 
-### By Acquisition Channel
-| Channel | Visitors | Demo Conversion | Purchase Conversion |
-|---|---|---|---|
-| Paid Search | 137 | 53% | 5.8% |
-| Email | 150 | 49% | 5.3% |
-| Organic Search | 252 | 38% | 5.2% |
-| Social Media | 257 | 37% | 3.9% |
-| Referral | 204 | 38% | 3.9% |
+### Acquisition Channel Performance
 
-**Insight:** Paid Search and Email are most efficient; Organic Search has the biggest volume opportunity.
+**Top Performer:** Paid Search emerges as the quality leader with the highest visitor-to-demo conversion rate (53%), indicating highly motivated, purchase-ready prospects. However, it generates the lowest visitor volume (137), limiting its ability to scale revenue alone.
 
-### By Platform
-| Platform | Visitors | Purchase Conversion |
-|---|---|---|
-| Windows | 288 | 6.3% |
-| macOS | 259 | 3.9% |
-| Android | 159 | 4.4% |
-| iOS | 196 | 4.1% |
-| Linux | 98 | 4.1% |
+**Volume Leader:** Organic Search dominates in traffic generation (252 visitors) but severely underperforms in purchase conversion (27%)—the lowest across all channels. This represents a critical funnel optimization opportunity: the company successfully attracts visitors but loses them in the downstream journey.
 
-**Insight:** Desktop dominates; mobile represents 34% of traffic but only 8% of purchases.
+**Efficiency Winners:** Email (0.49 demo conversion rate) and Paid Search (0.53) are the most efficient at converting visitors to committed prospects, suggesting these channels attract higher-intent users.
 
-### By Geography
-| Country | Visitors | Purchase Conversion |
-|---|---|---|
-| Germany | 160 | 5.0% |
-| Poland | 85 | 7.1% |
-| UK | 112 | 5.4% |
-| Belgium | 63 | 6.3% |
-| France | 128 | 2.3% |
-| Spain | 85 | 2.4% |
+**Secondary Performers:** Social Media and Referral provide moderate volume and conversion, performing neither exceptionally well nor poorly—they represent stable, middle-of-the-road channels.
 
-**Insight:** France and Spain underperform by 50-60% relative to comparable markets.
+### Platform Analysis
+
+**Desktop Dominance:** Windows (288 visitors, 18 purchases) and macOS (259 visitors, 10 purchases) drive the vast majority of revenue and maintain consistent conversion throughout the funnel. These platforms represent the company's core business.
+
+**Mobile Crisis:** iOS (196 visitors) and Android (159 visitors) combined represent substantial traffic (355 visitors total, 34% of all traffic) but catastrophically underconvert to purchases (0.28 and 0.25 respectively). Despite strong demo booking rates (0.43 for iOS, 0.51 for Android), the purchase conversion collapses—indicating either a broken mobile checkout experience, incompatible product design for mobile use, or misaligned user expectations.
+
+**Negligible Segment:** Linux represents minimal engagement and can be deprioritized in near-term optimization efforts.
+
+### Geographic Market Performance
+
+**Established Markets:** Germany (160 visitors, 8 purchases, 0.32 purchase conversion) and the UK (112 visitors, 6 purchases, 0.27 purchase conversion) represent your most mature, reliable revenue generators.
+
+**Hidden Gems:** Poland and Belgium demonstrate disproportionately high conversion efficiency—Poland achieves 0.40 purchase conversion from demos despite only 85 visitors, and Belgium achieves 0.29 despite only 63 visitors. These markets punch well above their weight and represent untapped growth potential.
+
+**Problem Markets:** France (128 visitors, only 3 purchases, 0.20 purchase conversion) and Spain (85 visitors, 2 purchases, 0.15 purchase conversion) bring substantial traffic but catastrophically underconvert. Despite similar visitor volumes to Germany and the UK, they deliver a fraction of the revenue, signaling deep product-market fit or operational execution issues.
+
+**Secondary Markets:** Netherlands, Italy, Denmark, and Austria show moderate performance with consistent but unremarkable metrics.
+
+### Funnel Velocity & Sales Cycle
+
+**Consistency:** The sales cycle is remarkably stable across all segments at 7-8 days from sign-up to purchase, indicating a predictable, repeatable process. This consistency enables reliable pipeline forecasting and resource planning.
+
+**Channel Variations:** Paid Search (4.29 days total) and Social Media (3.88 days) show the widest range, with Paid Search's longer cycle driven by a more deliberative demo-to-purchase phase (1.94 days), suggesting these buyers require more convincing before committing.
+
+**Platform Consistency:** All platforms maintain similar cycle times (3.71-4.05 days), indicating that platform choice does not materially affect sales velocity.
+
+**Geographic Consistency:** All countries maintain similar cycle times (3.75-4.21 days), suggesting that geographic market differences are driven by conversion rates, not sales cycle speed.
 
 ---
 
