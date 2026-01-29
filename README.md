@@ -59,7 +59,7 @@ The fictional SaaS company faces four interconnected challenges:
 
 ### Geographic Market Performance
 
-**Established Markets:** Germany (160 visitors, 8 purchases, 0.32 purchase conversion) and the UK (112 visitors, 6 purchases, 0.27 purchase conversion) represent your most mature, reliable revenue generators.
+**Established Markets:** Germany (160 visitors, 8 purchases, 0.32 purchase conversion) and the UK (112 visitors, 6 purchases, 0.27 purchase conversion) represent the most mature, reliable revenue generators.
 
 **Hidden Gems:** Poland and Belgium demonstrate disproportionately high conversion efficiency—Poland achieves 0.40 purchase conversion from demos despite only 85 visitors, and Belgium achieves 0.29 despite only 63 visitors. These markets punch well above their weight and represent untapped growth potential.
 
