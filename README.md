@@ -12,6 +12,8 @@ This analysis examines customer acquisition funnel performance across marketing 
 - The sales cycle is remarkably consistent at 7-8 days across all segments, enabling predictable pipeline forecasting.
 
 ---
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/15fcee34-a88a-4d43-8e04-7153e4f9a8b6" />
+---
 
 ## Business Problem
 
